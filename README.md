@@ -1,6 +1,9 @@
+Projeto desenvolvido por Manoel Victor e Joyce Madalena com o intuiro de desenvolver e aplicar 
+o que foi repassado em sala sobre desenvolvimento web e sua aplicabilidade
+
 # Diário Eletrônico
 
-## About this repository
+## SOBRE ESTE REPOSITORIO
 
 Use the following link to access the h2 console:
 
